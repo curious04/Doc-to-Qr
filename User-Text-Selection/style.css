@@ -1,0 +1,27 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: #6FDFDF;
+}
+
+.button {
+    transition-duration: 0.4s;
+    border-radius: 2rem;
+    border-width: 0.3rem;
+  }
+  
+  .button:hover {
+    background-color: #035397; 
+    color: white;
+  }
+  
+p{
+    color: white;
+}
+
+textarea{
+    border-radius: 0.2rem;
+    border-width: 0.3rem;
+}

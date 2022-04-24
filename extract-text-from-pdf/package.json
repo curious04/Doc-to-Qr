@@ -1,0 +1,21 @@
+{
+  "name": "extract-pdf-text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-fileupload": "^1.2.1",
+    "pdf-parse": "^1.1.1",
+    "react-scripts": "^5.0.1"
+  }
+}
